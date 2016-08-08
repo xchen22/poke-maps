@@ -1,0 +1,12 @@
+*.pyc
+*.idea
+*.db
+*.db-*
+*.sass-cache
+*.orig
+config/config.ini
+static/dist/
+node_modules/
+venv/
+core
+src/
